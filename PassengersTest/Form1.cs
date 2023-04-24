@@ -57,31 +57,3 @@ namespace PassengersTest
         }
     }
 }
-
-
-
-
-/*DataGridViewTextBoxColumn column0 = new DataGridViewTextBoxColumn();
-column0.Name = "Number";
-column0.HeaderText = "Номер";
-DataGridViewTextBoxColumn column1 = new DataGridViewTextBoxColumn();
-column1.Name = "Name";
-column1.HeaderText = "Имя";
-DataGridViewTextBoxColumn column2 = new DataGridViewTextBoxColumn();
-column2.Name = "Surname";
-column2.HeaderText = "Фамилия";
-
-passengersGrid.Columns.AddRange(column0, column1, column2);
-
-DataGridViewCell Number0 = new DataGridViewTextBoxCell();
-DataGridViewCell Name0 = new DataGridViewTextBoxCell();
-DataGridViewCell Surname0 = new DataGridViewTextBoxCell();
-
-Number0.Value = "1";
-Name0.Value = "Sam";
-Surname0.Value = "Smith";
-
-DataGridViewRow row = new DataGridViewRow();
-row.Cells.AddRange(Number0, Name0, Surname0);
-
-passengersGrid.Rows.Add(row);*/

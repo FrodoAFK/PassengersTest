@@ -39,7 +39,7 @@
             passengersGrid.Location = new Point(147, 12);
             passengersGrid.Name = "passengersGrid";
             passengersGrid.RowTemplate.Height = 25;
-            passengersGrid.Size = new Size(462, 415);
+            passengersGrid.Size = new Size(621, 415);
             passengersGrid.TabIndex = 0;
             // 
             // button2
