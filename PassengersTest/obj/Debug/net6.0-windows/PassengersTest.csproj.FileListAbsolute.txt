@@ -1,0 +1,17 @@
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\bin\Debug\net6.0-windows\PassengersTest.exe
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\bin\Debug\net6.0-windows\PassengersTest.deps.json
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\bin\Debug\net6.0-windows\PassengersTest.runtimeconfig.json
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\bin\Debug\net6.0-windows\PassengersTest.dll
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\bin\Debug\net6.0-windows\PassengersTest.pdb
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.csproj.AssemblyReference.cache
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.Form1.resources
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.csproj.GenerateResource.cache
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.AssemblyInfoInputs.cache
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.AssemblyInfo.cs
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.csproj.CoreCompileInputs.cache
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.dll
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\refint\PassengersTest.dll
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.pdb
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\PassengersTest.genruntimeconfig.cache
+C:\Users\wizar.DESKTOP-0OPV24U\source\repos\PassengersTest\PassengersTest\obj\Debug\net6.0-windows\ref\PassengersTest.dll
